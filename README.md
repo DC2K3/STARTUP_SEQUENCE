@@ -1,2 +1,2 @@
 # STARTUP_SEQUENCE
-This the s
+This the startup sequence code for electric vehicle. 
